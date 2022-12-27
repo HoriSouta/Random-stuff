@@ -5,7 +5,7 @@
        "category": "music",
        "sounds": [
          {
-          "name": "sounds/Hurt.org",
+          "name": "sounds/Hurt",
           "stream": true,
           "volume": 1.0,
           "load_on_low_memory": true
