@@ -1,0 +1,17 @@
+{"format_version": 2,
+    "header": {
+        "description": "Onii-chan baka",
+        "name": "Yamete Kudasai",
+        "uuid": "57644fac-a276-42e5-843f-a3c6f169a9ab",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+          "description": "Onii-chan baka",
+            "type": "resources",
+            "uuid": "b3c84028-85dd-11ed-a1eb-0242ac120002",
+            "version": [0, 0, 1]
+        }
+    ]
+}
